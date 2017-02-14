@@ -1,0 +1,10 @@
+D:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\bin\Debug\PhotoAnalysis.exe.config
+D:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\bin\Debug\PhotoAnalysis.exe
+D:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\bin\Debug\PhotoAnalysis.pdb
+D:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\obj\Debug\PhotoAnalysis.csprojResolveAssemblyReference.cache
+D:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\obj\Debug\PhotoAnalysis.Form1.resources
+D:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\obj\Debug\PhotoAnalysis.Form2.resources
+D:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\obj\Debug\PhotoAnalysis.Properties.Resources.resources
+D:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\obj\Debug\PhotoAnalysis.csproj.GenerateResource.Cache
+D:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\obj\Debug\PhotoAnalysis.exe
+D:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\obj\Debug\PhotoAnalysis.pdb
