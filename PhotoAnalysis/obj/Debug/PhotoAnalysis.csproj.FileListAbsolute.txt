@@ -8,3 +8,13 @@ D:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\obj\Debug\PhotoAnalysis.Properti
 D:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\obj\Debug\PhotoAnalysis.csproj.GenerateResource.Cache
 D:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\obj\Debug\PhotoAnalysis.exe
 D:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\obj\Debug\PhotoAnalysis.pdb
+E:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\bin\Debug\PhotoAnalysis.exe.config
+E:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\bin\Debug\PhotoAnalysis.exe
+E:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\bin\Debug\PhotoAnalysis.pdb
+E:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\obj\Debug\PhotoAnalysis.csprojResolveAssemblyReference.cache
+E:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\obj\Debug\PhotoAnalysis.Form1.resources
+E:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\obj\Debug\PhotoAnalysis.Form2.resources
+E:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\obj\Debug\PhotoAnalysis.Properties.Resources.resources
+E:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\obj\Debug\PhotoAnalysis.csproj.GenerateResource.Cache
+E:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\obj\Debug\PhotoAnalysis.exe
+E:\공부\코딩\c#\PhotoAnalysis\PhotoAnalysis\obj\Debug\PhotoAnalysis.pdb
